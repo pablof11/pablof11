@@ -2,7 +2,7 @@
 
 Lawyer working on the evaluation of AI legal reasoning.
 
-- Colombian-qualified lawyer (*Abogado*), completing an LL.M. in International Trade Law at the University of Aberdeen.
+- Colombian-qualified lawyer (*Abogado*). LL.M. in International Trade Law, University of Aberdeen.
 - Background in customs, international trade, tax and foreign-exchange regulation.
 - Legal domain expert for AI evaluation: designing cases, reference answers and rubrics, and grading model outputs.
 
